@@ -19,16 +19,6 @@ Building AI Applications, LLM Systems & Modern Data Infrastructure
 
 ---
 
-## 🎯 Current Focus
-
-- AI Engineering & LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Modern Data Infrastructure
-- Production Data Pipelines
-- Open Source Learning & Projects
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Databases
