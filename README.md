@@ -2,11 +2,19 @@
   <img src="./github_banner.png" alt="GitHub Banner" />
 </p>
 
-# Hi, I'm Rakshanda 👋
+<h1 align="center">Hi 👋, I'm Rakshanda Hedaoo</h1>
 
-Data Engineer with a passion for AI Engineering, LLMs, and modern data infrastructure.
+<h3 align="center">
+Data Engineer • AI Engineer • Building Modern Data Infrastructure
+</h3>
 
-I enjoy building scalable data systems, automating workflows, and exploring how AI can be integrated into real-world applications.
+<p align="center">
+Passionate about AI applications, LLM systems, data platforms, and scalable engineering solutions.
+</p>
+
+<p align="center">
+💡 Exploring AI Engineering, RAG, and Production-Grade Data Systems
+</p>
 
 ---
 
