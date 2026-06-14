@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_banner.png" alt="GitHub Banner" />
+  <img src="./banner.png" alt="GitHub Banner" />
 </p>
 
 # Rakshanda Hedaoo
