@@ -31,16 +31,27 @@ Building AI Applications, LLM Systems & Modern Data Infrastructure
 ## 🛠️ Tech Stack
 
 ### Languages & Databases
-Python • SQL • Snowflake
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Data Engineering
-Airflow • dbt • IICS
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![IICS](https://img.shields.io/badge/IICS-Informatica-E87000?style=for-the-badge)
 
 ### Cloud & DevOps
-AWS • GitHub
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### AI & ML
-LLMs • Prompt Engineering • AI Applications
+
+![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-5B5BD6?style=for-the-badge)
+![AI Applications](https://img.shields.io/badge/AI_Applications-8A2BE2?style=for-the-badge)
 
 ---
 
