@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_banner.png" alt="GitHub Banner" />
+</p>
+
 # Hi, I'm Rakshanda 👋
 
 Data Engineer with a passion for AI Engineering, LLMs, and modern data infrastructure.
