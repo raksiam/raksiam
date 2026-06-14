@@ -55,13 +55,15 @@ Building AI Applications, LLM Systems & Modern Data Infrastructure
 
 ---
 
-## 📌 Featured Projects
+<h2>📌 Featured Projects</h2>
 
-### NanoGPT From Scratch
-A custom-built NanoGPT implementation integrated with modern inference services and multimodal capabilities.
+<a href="https://github.com/raksiam/nano-gpt-scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raksiam&repo=nano-gpt-scratch&theme=tokyonight&hide_border=true" />
+</a>
 
-### RideSmart
-A local-first Streamlit application that compares and automates ride-booking workflows across multiple providers.
+<a href="https://github.com/raksiam/RideSmart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raksiam&repo=RideSmart&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
