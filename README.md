@@ -20,11 +20,23 @@ Passionate about AI applications, LLM systems, data platforms, and scalable engi
 
 ## 🚀 About Me
 
-- 💼 Working as a Data Engineer
-- 🌱 Currently learning AI Engineering and LLM applications
-- 🔧 Building data pipelines and automation solutions
-- ☁️ Interested in Cloud, Data Platforms, and AI Infrastructure
-- 📚 Continuously learning and building
+I am a Data Engineer with experience building scalable data solutions using Snowflake, Airflow, AWS, dbt, and IICS.
+
+My current focus is at the intersection of Data Engineering and AI Engineering, where I am exploring LLM-powered applications, retrieval-augmented generation (RAG), and AI systems built on reliable data foundations.
+
+I enjoy designing data pipelines, automating workflows, and building systems that transform raw data into actionable insights and intelligent applications.
+
+Outside of work, I spend my time experimenting with AI projects, studying modern data architectures, and building software that solves real-world problems.
+
+---
+
+## 🎯 Current Focus
+
+- AI Engineering & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Modern Data Infrastructure
+- Production Data Pipelines
+- Open Source Learning & Projects
 
 ---
 
